@@ -1,0 +1,9 @@
+Creating a web app for Grofruit & Veg farm in Zimbabwe. 
+
+Key features: 
+React for dynamic UI, 
+server-side API for data interaction
+storage of product info in a database,
+
+Goal
+To establish online presence post acquiring export certification.
